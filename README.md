@@ -98,7 +98,7 @@ The following steps were applied to clean and prepare the Arabic text:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/arabic-quotes-classification.git
+   git clone https://github.com/Nadaaaaaaaaaaaaaaaaaa/arabic-quotes-classification.git
    cd arabic-quotes-classification
 Create a virtual environment and install dependencies:
 
