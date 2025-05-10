@@ -100,20 +100,7 @@ The following steps were applied to clean and prepare the Arabic text:
    ```bash
    git clone https://github.com/Nadaaaaaaaaaaaaaaaaaa/arabic-quotes-classification.git
    cd arabic-quotes-classification
-Create a virtual environment and install dependencies:
 
-bash
-Copier le code
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-Run preprocessing and training notebooks:
-
-01_scraping.ipynb
-
-02_preprocessing.ipynb
-
-03_training_model.ipynb
 
 🌟 Project Highlights
 One of the first projects focusing on multi-class classification of Arabic quotes.
